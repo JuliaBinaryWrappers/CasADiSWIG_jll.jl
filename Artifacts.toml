@@ -1,0 +1,312 @@
+[[CasADiSWIG]]
+arch = "aarch64"
+git-tree-sha1 = "a94cd0ef82545fa429cc2c37e6531d9db3554b3d"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "a477a3a812738f7fcb47cab9a470f1c09d31815186cad5f93ab050831e4f180b"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+git-tree-sha1 = "2feccf7b6c94197a7780035c92da248490be6b97"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "bef18282eb4dd1ea3a176daa0a315e0d14e849aebad65a29c126a5ff52a22cd6"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+git-tree-sha1 = "c494f8e259ba5a83e142e25f034f495954d68f65"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "197ec1f952e22395e80975f004d36ec0bf9654c886b27e1e09d37740def4f910"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f0b25a267e036779b432c1748cf4dfc528daa12"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "566ed85104dbff101e5a97c19eab57a181671b9fd4253b0fd87bf00ec2b1c921"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d02a1d79b55ab2d52730b3ef2e57a7e591693817"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "3af4721811e08891c7243b324ae2edd7d7e08bc18b482f4f76bc5721ed378b70"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f924b17c2db7355f4e0f30ef87de287f817adf2b"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "32e7d46657bf22c089834358112212c6d6f789d5049f6c8f56ab147b67e4b247"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06395d7b8d8f2658b5f22a716d64729b8d14966e"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "ee1dd7d6ca9dfb893a283805ac173efd357c5f6680cfb93b72a5d0aa065f1010"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e27550d7053af33672c1162ca4e33770ee0cb7cd"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "eeefc4064120f69d5a6261ee437d5c3d803c9a7e59340a738f85ad92d83ec6a7"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9c2efee117be39a6216c6e19f9d520b5b3313a9"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "28c7585f271ace3d2d575eaa1e6db98d7115730af14cc919a5d27d8c649dcfc7"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08c221efc624803b0bdfd06d590d4560c0064b69"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "d37f9f04c405bd88c8a2f807cb54c4d9d41b3f9defa0efc8250a502314a60980"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "444aee5cbe1a3fcb37671b8313ef8733cc8a919a"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "12692c64e5eb2787813f0cd0d38eec1355eba73e80ad0ec0ca4f5ef9d759ec70"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "956acbe64b1699031d16a9db54651304312e73ac"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "2b58841d6cd6f33f0c69f9d4a0d48c65e0abac7bf196a07563c731425d6f79e3"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16a65dd133faee19fd8cdf71c8a37d3ffba9883e"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "d05ce6760b7db5f7fa192eb770b73d8f4de897aa109172400a468d5cfa55509e"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80c4654a9678d93e875218237805f370043389cd"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "14f01d1b068244ce50747ed378cba311703bc22c2408bbfd746be557e8b4a1aa"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1ee6b915de9634f5782bd85fb1ad4d89fd63866"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "d1a88ba7fe3ad0e3bd3a794bc7a2897fa4b3933ed107b9f216f8e93cde5e128a"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "17604dc9202a12011876295369d1ce95b5ab02fb"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "10e6c553b8d325286f1e22e6901159b5000deee641e10efd38de7a06dbc863be"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f015a819985be6ec944408ce3e3d551f32a215e2"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "6568fd1b1532a55a257024fd683a5bc787e980a2c1cc2bfaae170f048e345a43"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "296f4a5b9d2bc54ac969871fedfec4dda1cdfb75"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "dd940ecb718b54321df2af961dcf25e6f7e2b1860dd31dcec7f38540883b692a"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+git-tree-sha1 = "1bf2cccca73b533fc7a2a73c66af9a558b93f9ea"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "9ab20bbede028de5a261a8911a32ac5453480a13876565c740e333db4e205696"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+git-tree-sha1 = "ef703addf2d627f6a9f4b54d3aad87841b807cf4"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "644fa6b0d43a98dfca6d26dfefaf4d3c228a9914d4973f95d31fe1bffaf5ea51"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+git-tree-sha1 = "92fd44d37757212390bd218bd073ba8edff6ad01"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[CasADiSWIG.download]]
+    sha256 = "8c62f1ee539b27378f3d641b12bac7fc73faaf89651cc4c0c8e4b8a0e20f8d10"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8474c28f9ad1405e9dea1a743d75db84cfd7097f"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "227eb563b1b4defda2d3d933135cd0c4ef3834da70ec37073d2125b374e831c7"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c17ead8bb7bb92ab83a6d8a793186e7a5b49d44"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "797096cea14693a0f606ce6920b32b97b671f78a9df83274fdc81989af12f6c2"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "192a211fad618c0603540d5ccb6b49ae28273eec"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "c5c97a593b5604bf09be09fd71b7f1d9a6893c95c2655e152f9d197d2c341c5f"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4b2318357d318953cee7449b4a046785a9e4a12"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "bfb027df5d9528371eed9dab6f8348a96261d9ae2c92c78004667d7d4009d31b"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35482384d7bdcd691ac1bd225d131968a9dc887f"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "e0c8713b4c59caba4e20e5e28b354b4e0cc03eac99b7a4bf93d2c9a45d72e1b7"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b9b83952ebe736d2d10ea2c43104572f11fe849"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[CasADiSWIG.download]]
+    sha256 = "b48714e3878c400768c55bea622ac35f350a64201fb30b5924c063ec8fc64c16"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "857c9533d55e473ab0879a4b058946d59564a299"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "0d202f743a4fe1f07e5e1044790d093483a5d095d717e119de6ed09b0f5ff2bd"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ba7c25734971b9b3a6764bcafec4efe5dd09691"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "9c5d08e49a07d10682f7fcb6d39c5ff2fef54d824055ab79235ab38697009bd1"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[CasADiSWIG]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9eeff8773545c5c32b1c056869b96361f59f4b88"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[CasADiSWIG.download]]
+    sha256 = "112176f4c3d8683dfbc2febde6db102b0859f3d55bfa9f6867888fc5b2ade9e0"
+    url = "https://github.com/JuliaBinaryWrappers/CasADiSWIG_jll.jl/releases/download/CasADiSWIG-v3.8.1+0/CasADiSWIG.v3.8.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
