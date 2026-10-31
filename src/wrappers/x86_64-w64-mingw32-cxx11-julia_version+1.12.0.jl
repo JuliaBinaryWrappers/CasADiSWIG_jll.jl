@@ -3,11 +3,17 @@ export casadi_jl, casadi_native_body, libcasadi_wrap
 
 using CasADi_jll
 JLLWrappers.@generate_wrapper_header("CasADiSWIG")
+JLLWrappers.@declare_library_product(libcasadi_wrap, "libcasadi_wrap.dll")
 JLLWrappers.@declare_file_product(casadi_jl)
 JLLWrappers.@declare_file_product(casadi_native_body)
-JLLWrappers.@declare_library_product(libcasadi_wrap, "libcasadi_wrap.dll")
 function __init__()
     JLLWrappers.@generate_init_header(CasADi_jll)
+    JLLWrappers.@init_library_product(
+        libcasadi_wrap,
+        "share\\CasADiSWIG\\libcasadi_wrap.dll",
+        RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
     JLLWrappers.@init_file_product(
         casadi_jl,
         "share\\CasADiSWIG\\casadi.jl",
@@ -16,12 +22,6 @@ function __init__()
     JLLWrappers.@init_file_product(
         casadi_native_body,
         "share\\CasADiSWIG\\casadi_native_body.jl",
-    )
-
-    JLLWrappers.@init_library_product(
-        libcasadi_wrap,
-        "share\\CasADiSWIG\\libcasadi_wrap.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@generate_init_footer()
